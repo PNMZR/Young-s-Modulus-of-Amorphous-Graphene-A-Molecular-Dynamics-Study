@@ -4,7 +4,7 @@
 >
 > Email: zhaorong1016.sripe@sinopec.com
 >
-> July 2024
+> July 2025
 
 The following instructions explain the source code accompanying the paper titled "Young’s Modulus of Amorphous Graphene: A
 Molecular Dynamics Study" by Rong Zhao. Both the source codes are included in the download. Alternatively, it can be obtained by emailing the authors: zhaorong1016.sripe@sinopec.com.
