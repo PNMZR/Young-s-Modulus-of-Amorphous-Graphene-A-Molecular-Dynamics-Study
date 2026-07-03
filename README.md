@@ -6,8 +6,8 @@
 >
 > July 2025
 
-The following instructions explain the source code accompanying the paper titled "Young’s Modulus of Amorphous Graphene: A
-Molecular Dynamics Study" by Rong Zhao. Both the source codes are included in the download. Alternatively, it can be obtained by emailing the authors: zhaorong1016.sripe@sinopec.com.
+The following instructions explain the source code accompanying the paper titled "Vacancy-Dependent Elastic Modulus of Amorphous Graphene:
+Atomistic Simulations, Analytical Modeling, and Experimental Validation" by Rong Zhao. Both the source codes are included in the download. Alternatively, it can be obtained by emailing the authors: zhaorong1016.sripe@sinopec.com.
 
 ## Source files
 
